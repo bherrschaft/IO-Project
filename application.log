@@ -1,0 +1,19 @@
+[2024-08-06 11:19:58] [INFO] Deleted directory C:\Users\admin\Testing 
+[2024-08-06 11:20:59] [INFO] Created directory C:\Users\admin\Testing 
+[2024-08-06 11:52:43] [INFO] Created directory 8 
+[2024-08-06 11:54:18] [INFO] Deleted directory C:\Users\admin\Testing 
+[2024-08-06 11:55:01] [INFO] Created directory C:\Users\admin\Testing 
+[2024-08-06 11:57:16] [INFO] Displayed contents of directory: C:\Users\admin\casting-assignment-bherrschaft 
+[2024-08-06 12:00:06] [INFO] Copied file from C:\Users\admin\Arrays-Lists-Practice\src\main\java\HowLarge.java to C:\Users\admin\Testing 
+[2024-08-06 12:23:15] [INFO] Copied file from 8 to 5 
+[2024-08-06 12:24:07] [SEVERE] Failed to create directory C:\Users\admin\Testing - C:\Users\admin\Testing 
+[2024-08-06 12:24:53] [INFO] Created directory C:\Users\admin\Testing 
+[2024-08-06 12:25:23] [INFO] Copied file from C:\Users\admin\Arrays-Lists-Practice\src\main\java\HowLarge.java to C:\Users\admin\Testing\ 
+[2024-08-06 12:30:35] [INFO] Copied file from C:\Users\admin\Arrays-Lists-Practice\src\main\java\HowLarge.java to C:\Users\admin\Testing\ 
+[2024-08-06 12:31:40] [INFO] Copied file from C:\Users\admin\Arrays-Lists-Practice\src\main\java\HowLarge.java to C:\Users\admin\testing\HowLarge.java 
+[2024-08-06 12:52:24] [INFO] Moved file from C:\Users\admin\testing\HowLarge.java to C:\Users\admin\testing2\HowLarge.java 
+[2024-08-06 12:54:06] [INFO] Deleted file C:\Users\admin\testing2\HowLarge.java 
+[2024-08-06 13:02:39] [SEVERE] Failed to search files in directory C:\Users\admin\Arrays-Lists-Practice\src\main\java\FifthItem.java - C:\Users\admin\Arrays-Lists-Practice\src\main\java\FifthItem.java 
+[2024-08-06 13:05:03] [INFO] Searched files in directory: C:\Users\admin\Arrays-Lists-Practice\src\main\java\org\example with query: .java 
+[2024-08-06 13:05:03] [INFO] Searched files in directory: C:\Users\admin\Arrays-Lists-Practice\src\main\java\org with query: .java 
+[2024-08-06 13:05:03] [INFO] Searched files in directory: C:\Users\admin\Arrays-Lists-Practice\src\main\java with query: .java 
